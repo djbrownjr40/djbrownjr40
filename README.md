@@ -6,7 +6,7 @@ Currently, I'm focused on improving my JavaScript and Rails skills so I can take
 
 Feel free to connect with me for collaborations or just to chat about coding! Reach out to me at any of the following:
 
-- LinkedIn: [Profile](https://www.linkedin.com/in/dennis-john-brown-jr/)
+- [LinkedIn Profile](https://www.linkedin.com/in/dennis-john-brown-jr/)
 
 - Email: djbrownjr40@gmail.com
 
