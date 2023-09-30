@@ -6,7 +6,7 @@ Currently, I'm focused on improving my JavaScript and Rails skills so I can take
 
 Feel free to connect with me for collaborations or just to chat about coding! Reach out to me at any of the following:
 
-- [Portfolio](Portfolio: https://dennisjohnbrownjr.me/)
+- [Portfolio](https://dennisjohnbrownjr.me/)
 
 - [LinkedIn Profile](https://www.linkedin.com/in/dennis-john-brown-jr/)
 
